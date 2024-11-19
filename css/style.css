@@ -81,6 +81,8 @@ footer {
   color: #111;
 }
 
-img {
-  float right: 100px;
+.article{
+  margin: 0;
+  float: left;
+  
 }
